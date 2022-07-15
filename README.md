@@ -1,4 +1,4 @@
-# ToyProject
+# Project
 Dallija(달리자)
 
 ## feature
